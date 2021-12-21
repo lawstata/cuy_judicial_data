@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run cuy_ML_compare.py
